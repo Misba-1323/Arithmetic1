@@ -12,7 +12,7 @@ public class Arith {
         System.out.println("Square of "+b +"is : " +(b*b));
         System.out.println("Cube of "+a +"is : " +(a*a*a));
         System.out.println("Cube of "+b +"is : " +(b*b*b));
-      //System.out.println("Power = "+(pow(a,b)));
+        System.out.println("Power = "+(5^2));
 
     }
 }
