@@ -6,5 +6,13 @@ public class Arith {
         System.out.println("Sub = "+(a-b));
         System.out.println("Mul = "+(a*b));
         System.out.println("Div = "+(a/b));
+
+        System.out.println("---Master Branch---");
+        System.out.println("Square of "+a +"is : " +(a*a));
+        System.out.println("Square of "+b +"is : " +(b*b));
+        System.out.println("Cube of "+a +"is : " +(a*a*a));
+        System.out.println("Cube of "+b +"is : " +(b*b*b));
+      //System.out.println("Power = "+(pow(a,b)));
+
     }
 }
